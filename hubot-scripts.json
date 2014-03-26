@@ -1,1 +1,17 @@
-["redis-brain.coffee", "shipit.coffee"]
+[
+  "redis-brain.coffee",
+  "setenv.coffee",
+
+  "shipit.coffee",
+  "do-it-live.coffee",
+  "dribbble.coffee",
+  "encourage.coffee",
+  "facepalm.coffee",
+  "points.coffee",
+  "remind.coffee",
+  "spark.coffee",
+  "talkative.coffee",
+  "thought.coffee",
+  "trello.coffee",
+  "zen.coffee"
+]
