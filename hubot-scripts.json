@@ -13,5 +13,6 @@
   "talkative.coffee",
   "thought.coffee",
   "trello.coffee",
+  "days_since.coffee",
   "zen.coffee"
 ]
