@@ -1,7 +1,4 @@
 [
-  "redis-brain.coffee",
-  "setenv.coffee",
-
   "shipit.coffee",
   "do-it-live.coffee",
   "dribbble.coffee",
@@ -14,5 +11,7 @@
   "thought.coffee",
   "trello.coffee",
   "days_since.coffee",
-  "zen.coffee"
+  "zen.coffee",
+
+  "redis-brain.coffee"
 ]
