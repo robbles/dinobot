@@ -12,6 +12,7 @@
   "trello.coffee",
   "days_since.coffee",
   "zen.coffee",
+  "github-pull-request-notifier.coffee",
 
   "redis-brain.coffee"
 ]
