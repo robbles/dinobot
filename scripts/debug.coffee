@@ -11,8 +11,10 @@ module.exports = (robot) ->
 
   robot.respond /debug ?(.*)/i, (msg) ->
     console.log('Debug message addressed to bot:');
-    console.log(msg)
+    console.log(msg.message)
+    console.log(msg.envelope)
 
   robot.hear /debug ?(.*)/i, (msg) ->
     console.log('Debug message posted:');
-    console.log(msg)
+    console.log(msg.message)
+    console.log(msg.envelope)
