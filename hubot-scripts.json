@@ -11,7 +11,7 @@
   "thought.coffee",
   "trello.coffee",
   "days_since.coffee",
-  "github-pull-request-notifier.coffee",
+  "git-help.coffee",
 
   "redis-brain.coffee"
 ]
