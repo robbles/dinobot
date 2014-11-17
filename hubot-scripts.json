@@ -11,7 +11,6 @@
   "thought.coffee",
   "trello.coffee",
   "days_since.coffee",
-  "git-help.coffee",
 
   "redis-brain.coffee"
 ]
